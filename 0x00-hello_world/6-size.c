@@ -4,7 +4,7 @@
  * main - Prints the size of many var types
  *
  * Return: value 0
- * */
+ */
 int main(void)
 {
 	char a;
