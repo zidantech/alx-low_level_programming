@@ -1,32 +1,21 @@
-# C - Static libraries
+# INTRODUCTION
+# 
+-> This is the readme file for task 9
 
-## Tasks 📃
-0. A library is not a luxury but one of the necessities of life
+-> All files were made through the shell with Vim editor
 
-## libmy.a: C Static library containing all the functions listed below:
+# THE NAMES OF THE FILES IN THIS PROJECTS ARE:
+#
+	-> _putchar.c
 
-int _putchar(char c);
-int _islower(int c);
-int _isalpha(int c);
-int _abs(int n);
-int _isupper(int c);
-int _isdigit(int c);
-int _strlen(char *s);
-void _puts(char *s);
-char *_strcpy(char *dest, char *src);
-int _atoi(char *s);
-char *_strcat(char *dest, char *src);
-char *_strncat(char *dest, char *src, int n);
-char *_strncpy(char *dest, char *src, int n);
-int _strcmp(char *s1, char *s2);
-char *_memset(char *s, char b, unsigned int n);
-char *_memcpy(char *dest, char *src, unsigned int n);
-char *_strchr(char *s, char c);
-unsigned int _strspn(char *s, char *accept);
-char *_strpbrk(char *s, char *accept);
-char *_strstr(char *haystack, char *needle);
-nain.h: Header file containing the prototypes of all functions included in libmy.a
+	-> libmy.a
 
-## 1. Without libraries what have we? We have no past and no future
+	-> main.h
 
-create_static_lib.sh: Bash script that creates a static library called liball.a from all the .c files in the current directory.
+-> All files are the works of the repo owner
+
+-> Usage is open and permitted
+
+# CONCLUSION
+#
+-> "Becoming a Programmer is not easy but it is better"
